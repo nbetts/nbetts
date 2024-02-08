@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Nathan.
 
-Software engineer and tech enthusiast. Currently specialise in digital transformation with cloud infrastructure. Enjoys experimenting with graphics and web/mobile apps.
+Senior Software Consultant and tech enthusiast. Specialised in digital transformation and cloud infrastructure. Enjoys experimenting with graphics and web/mobile apps.
 
 <div align="center">
   <a href="https://model-solar-system.vercel.app">
@@ -14,8 +14,6 @@ Software engineer and tech enthusiast. Currently specialise in digital transform
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img alt="Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
   <img alt="Three.js" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-  <img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" />
@@ -30,8 +28,6 @@ Software engineer and tech enthusiast. Currently specialise in digital transform
     <a href="https://mantine.dev">Mantine</a>
     •
     <a href="https://github.com/pmndrs/react-three-fiber">React Three Fibre</a>
-    •
-    <a href="https://svelte-cubed.vercel.app/">Svelte Cubed</a>
   </div>
   <hr />
   <h3>☁️ Cloud</h3>
@@ -47,7 +43,6 @@ Software engineer and tech enthusiast. Currently specialise in digital transform
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <hr />
